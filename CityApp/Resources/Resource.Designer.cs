@@ -302,11 +302,11 @@ namespace CityApp
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060014
-			public const int Task = 2131099668;
+			// aapt resource value: 0x7f060015
+			public const int Task = 2131099669;
 			
-			// aapt resource value: 0x7f060013
-			public const int button1 = 2131099667;
+			// aapt resource value: 0x7f060014
+			public const int button1 = 2131099668;
 			
 			// aapt resource value: 0x7f06000a
 			public const int down = 2131099658;
@@ -324,10 +324,13 @@ namespace CityApp
 			public const int left = 2131099651;
 			
 			// aapt resource value: 0x7f06000d
-			public const int listView1 = 2131099661;
+			public const int listView = 2131099661;
 			
-			// aapt resource value: 0x7f060012
-			public const int location = 2131099666;
+			// aapt resource value: 0x7f06000f
+			public const int listView1 = 2131099663;
+			
+			// aapt resource value: 0x7f060013
+			public const int location = 2131099667;
 			
 			// aapt resource value: 0x7f060006
 			public const int marquee = 2131099654;
@@ -338,8 +341,8 @@ namespace CityApp
 			// aapt resource value: 0x7f060001
 			public const int mini = 2131099649;
 			
-			// aapt resource value: 0x7f060010
-			public const int name = 2131099664;
+			// aapt resource value: 0x7f060011
+			public const int name = 2131099665;
 			
 			// aapt resource value: 0x7f060008
 			public const int none = 2131099656;
@@ -347,35 +350,35 @@ namespace CityApp
 			// aapt resource value: 0x7f060002
 			public const int normal = 2131099650;
 			
-			// aapt resource value: 0x7f060011
-			public const int number = 2131099665;
+			// aapt resource value: 0x7f060012
+			public const int number = 2131099666;
 			
-			// aapt resource value: 0x7f060016
-			public const int numberPicker = 2131099670;
+			// aapt resource value: 0x7f060017
+			public const int numberPicker = 2131099671;
 			
 			// aapt resource value: 0x7f060004
 			public const int right = 2131099652;
 			
-			// aapt resource value: 0x7f060018
-			public const int share = 2131099672;
+			// aapt resource value: 0x7f060019
+			public const int share = 2131099673;
 			
 			// aapt resource value: 0x7f060009
 			public const int start = 2131099657;
 			
-			// aapt resource value: 0x7f060019
-			public const int task = 2131099673;
+			// aapt resource value: 0x7f06001a
+			public const int task = 2131099674;
 			
 			// aapt resource value: 0x7f06000c
 			public const int textView1 = 2131099660;
 			
-			// aapt resource value: 0x7f06000f
-			public const int textView2 = 2131099663;
+			// aapt resource value: 0x7f060010
+			public const int textView2 = 2131099664;
 			
-			// aapt resource value: 0x7f060015
-			public const int textView3 = 2131099669;
+			// aapt resource value: 0x7f060016
+			public const int textView3 = 2131099670;
 			
-			// aapt resource value: 0x7f060017
-			public const int title = 2131099671;
+			// aapt resource value: 0x7f060018
+			public const int title = 2131099672;
 			
 			// aapt resource value: 0x7f06000b
 			public const int up = 2131099659;
