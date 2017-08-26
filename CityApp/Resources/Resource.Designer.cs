@@ -350,20 +350,20 @@ namespace CityApp
 			// aapt resource value: 0x7f060011
 			public const int number = 2131099665;
 			
-			// aapt resource value: 0x7f060017
-			public const int numberPicker = 2131099671;
+			// aapt resource value: 0x7f060016
+			public const int numberPicker = 2131099670;
 			
 			// aapt resource value: 0x7f060004
 			public const int right = 2131099652;
 			
-			// aapt resource value: 0x7f060019
-			public const int share = 2131099673;
+			// aapt resource value: 0x7f060018
+			public const int share = 2131099672;
 			
 			// aapt resource value: 0x7f060009
 			public const int start = 2131099657;
 			
-			// aapt resource value: 0x7f06001a
-			public const int task = 2131099674;
+			// aapt resource value: 0x7f060019
+			public const int task = 2131099673;
 			
 			// aapt resource value: 0x7f06000c
 			public const int textView1 = 2131099660;
@@ -371,14 +371,11 @@ namespace CityApp
 			// aapt resource value: 0x7f06000f
 			public const int textView2 = 2131099663;
 			
-			// aapt resource value: 0x7f060018
-			public const int textView3 = 2131099672;
-			
-			// aapt resource value: 0x7f060016
-			public const int time = 2131099670;
-			
 			// aapt resource value: 0x7f060015
-			public const int title = 2131099669;
+			public const int textView3 = 2131099669;
+			
+			// aapt resource value: 0x7f060017
+			public const int title = 2131099671;
 			
 			// aapt resource value: 0x7f06000b
 			public const int up = 2131099659;
