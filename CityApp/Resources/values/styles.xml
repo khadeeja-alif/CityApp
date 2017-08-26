@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<style name="Widget.PlacesAutoCompleteTextView.Styled"
+               parent="PACV.Widget.PlacesAutoCompleteTextView">
+  <item name="android:background">@drawable/my_edit_text_background</item>
+  <item name="android:textAppearance">@style/MyTextAppearance</item>
+</style>
