@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace CityApp
 {
@@ -11,6 +12,9 @@ namespace CityApp
         {
             base.OnCreate(bundle);
 
+            var intent = new Intent(this, typeof(LoginActivity));
+            StartActivity(intent);
+            Finish();
             // Set our view from the "main" layout resource
              SetContentView (Resource.Layout.task);
         }
