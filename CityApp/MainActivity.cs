@@ -16,7 +16,7 @@ namespace CityApp
             StartActivity(intent);
             Finish();
             // Set our view from the "main" layout resource
-            // SetContentView (Resource.Layout.Main);
+             SetContentView (Resource.Layout.task);
         }
     }
 }
