@@ -51,7 +51,7 @@ namespace CityApp
                         }
                         else
                         {
-                            return new Model<T>() { status = (int)response.StatusCode };
+                            return new Model<T>() { status = response.StatusCode.ToString() };
                         }
                     }
                 }
@@ -91,7 +91,7 @@ namespace CityApp
                          if (body != null)
                         {
                             HttpContent hc = new StringContent(body, Encoding.UTF8, "application/json");
-                            response = await client.PostAsync(url, hc);
+                            response = await client.PutAsync(url, hc);
                         }
                         else
                         {
@@ -107,7 +107,7 @@ namespace CityApp
                         }
                         else
                         {
-                            return new Model<T>() { status = (int)response.StatusCode };
+                            return new Model<T>() { status = response.StatusCode.ToString() };
                         }
                     }
                 }

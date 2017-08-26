@@ -160,9 +160,6 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\StartPage.axml" />
-    <AndroidResource Include="Resources\layout\City.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <AndroidResource Include="Resources\layout\task.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
